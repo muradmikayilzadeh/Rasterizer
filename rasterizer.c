@@ -1,5 +1,5 @@
 /*
-    Name: Raterizer Program and Animation
+    Name: Rasterizer Program and Animation
     Author: Murad Mikayilzade
     Animation link: https://www.youtube.com/shorts/W5ZgaESP2LU
 */
